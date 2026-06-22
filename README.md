@@ -12,4 +12,4 @@ $ education
 > B.Tech CSE @ SRM Institute of Science and Technology
 
 $ interests
-> Full Stack Development | AI | Cybersecurity
+> AI Development | Design | Cybersecurity
