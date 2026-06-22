@@ -13,10 +13,3 @@ $ education
 
 $ interests
 > Full Stack Development | AI | Cybersecurity
-
-$ currently_building
-> Academia-for-SRM
-> InventoryPro
-> Dobby AI Assistant
-> Not-Palantir
-```
